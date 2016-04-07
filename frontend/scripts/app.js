@@ -4,11 +4,11 @@
  * MIT License
 */
 var settings = {
-    github_user : 'alterebro', // GitHub username
+    github_user : 'mlanin', // GitHub username
     metadata : {
-        title : 'Github User Page Generator : alterebro.github.io',
+        title : 'Github repos : mlanin.github.io',
         description : 'Github User Page JavaCript Generator built with Vue.js that creates a dynamic page based on the existing data and repositories of a given GitHub user',
-        url : 'http://alterebro.github.io' // URL where it's going to be published
+        url : 'http://mlanin.github.io' // URL where it's going to be published
     }
 }
 
